@@ -36,3 +36,12 @@ Merged 3 years csv files into one single Sales Final table.
 Changed type of some data columns and also rounded the values etc.
 Created Measure Table and used some DAX formula like SUMX and DIVIDE to find Total Order count etc.
 
+
+## Sample Dashboards
+
+<img src="Images/Dashboard.jpg" width="1000"/>&nbsp;
+
+<img src="Images/Map.jpg" width="1000"/>&nbsp;
+
+<img src="Images/Schema.jpg" width="1000"/>&nbsp;
+
